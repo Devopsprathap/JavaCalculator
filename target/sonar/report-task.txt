@@ -1,6 +1,6 @@
 projectKey=com.ravi.cal:RaviCalculator
-serverUrl=http://34.226.234.123:9000
+serverUrl=http://34.239.179.6:9000
 serverVersion=6.7.7.38951
-dashboardUrl=http://34.226.234.123:9000/dashboard/index/com.ravi.cal:RaviCalculator
-ceTaskId=AYBFzRVguHuN8gE1_rhC
-ceTaskUrl=http://34.226.234.123:9000/api/ce/task?id=AYBFzRVguHuN8gE1_rhC
+dashboardUrl=http://34.239.179.6:9000/dashboard/index/com.ravi.cal:RaviCalculator
+ceTaskId=AYBcYB22m1-WBvYTk60m
+ceTaskUrl=http://34.239.179.6:9000/api/ce/task?id=AYBcYB22m1-WBvYTk60m
